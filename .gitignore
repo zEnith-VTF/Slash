@@ -1,0 +1,38 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Local project assets
+Content/
+Assets/
+BlackAlder/
+Landscape/
+MedievalDungeon/
+Megascans/
+StarterContent/
+
+# IDE and generated project files
+.vs/
+.idea/
+.vscode/
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.user
+*.xcodeproj/
+*.xcworkspace/
+
+# Local notes and temporary files
+/Slash_个人代码字典与知识库.docx
+/Slash_个人代码字典与知识库.txt
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
